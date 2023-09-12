@@ -8,8 +8,8 @@ Data reference
 https://www.phoenixopendata.com/dataset/crime-data
 https://www.phoenixopendata.com/dataset/police-stations1
 
-![crime_map1](https://github.com/jaenaldo/project2/assets/72944189/db2f7ef9-5618-4e26-84f0-c207dcf47e7a)
+![crime_map1](https://github.com/jaenaldo/project2/assets/72944189/060c83f2-0bb0-45b7-8179-d4417a1421c0)
 
-![crime_map_with_ps](https://github.com/jaenaldo/project2/assets/72944189/6ba3af99-b68b-40e0-9b33-0ac5221a4b6b)
+![crime_map_with_ps](https://github.com/jaenaldo/project2/assets/72944189/a6170a78-34b7-475b-a326-5f216c413423)
 
 ![crime_map_per_zip](https://github.com/jaenaldo/project2/assets/72944189/69efec52-3456-4d1f-a69e-3f0f9bd8d3e9)
