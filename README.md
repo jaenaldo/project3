@@ -6,6 +6,7 @@ The first map illustrates the occurrences of crimes within the city boundaries o
 Data reference 
 
 https://www.phoenixopendata.com/dataset/crime-data
+
 https://www.phoenixopendata.com/dataset/police-stations1
 
 ![crime_map1](https://github.com/jaenaldo/project2/assets/72944189/ada8f8ad-bc84-44ac-8bbd-59441466597b)
